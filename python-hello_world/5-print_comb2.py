@@ -1,5 +1,4 @@
-x= 0
-while x<= 99:
-  print("{:02d}".format(x) , ",")
-  x= x+1
+numbers= list(range(0,100))
+for number in numbers:
+ print("{:02d}".format(number), ", ", end= "")
   
