@@ -1,5 +1,6 @@
 numbers= list(range(0,100))
 for number in numbers:
- number = print("{:02d}".format(number), end= ", ")
-
+ print("{:02}".format(number), end= ", ", flush= True)
+ 
+d
   
