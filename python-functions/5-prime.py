@@ -8,3 +8,4 @@ def is_prime(number):
             if number % y == 0:
                 return False
         return True
+    
