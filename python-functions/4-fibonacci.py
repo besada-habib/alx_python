@@ -5,4 +5,4 @@ def fibonacci_sequence(n):
         next_term = sequence[-1] + sequence[-2]
         sequence.append(next_term)
 
-    return sequence
+    return sequence [:n]
