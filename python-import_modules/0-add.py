@@ -1,6 +1,4 @@
-def add (a,b):
-    print (a+b)
-a = 1
-b = 2
-
-add (a,b)
+def add(a, b):
+ a = 1
+ b =2 
+ return (a + b)
