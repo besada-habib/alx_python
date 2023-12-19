@@ -4,7 +4,7 @@ if __name__ == "__main__":
     def print_arguments ():
      arg_n = len(sys.argv) - 1 
      if arg_n == 0:
-      print("0 argument.")
+      print("0 arguments.")
       print(":")
      elif arg_n == 1:
         print("1 argument:")
