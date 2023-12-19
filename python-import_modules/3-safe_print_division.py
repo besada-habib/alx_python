@@ -4,7 +4,7 @@ if __name__ == "__main__":
      try:
        result = a / b
      except ZeroDivisionError:
-       result = None
+       pass
      finally:
          print("Inside result: {}".format(result))
          return result
