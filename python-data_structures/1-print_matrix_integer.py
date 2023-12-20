@@ -9,6 +9,6 @@ matrix = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-if __name__ = "__main":
+if __name__ == "__main":
 print_matrix_integer(matrix)
 
