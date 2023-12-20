@@ -10,5 +10,5 @@ matrix = [
     [7, 8, 9]
 ]
 if __name__ == "__main":
-print_matrix_integer(matrix)
+ print_matrix_integer(matrix)
 
